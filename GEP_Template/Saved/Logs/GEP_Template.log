@@ -12805,3 +12805,139 @@ Make sure '/Game/Items/Widgets/BP_SLOT.BP_SLOT_C' has been compiled for  Get Ite
 [2026.03.01-16.27.27:870][695]LogSavePackage: Moving 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Saved/BP_SLOT_Auto44D5DDBCB40CB28C7D663089E1CAD6ED1.tmp' to 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Saved/Autosaves/Game/Items/Widgets/BP_SLOT_Auto4.uasset'
 [2026.03.01-16.27.27:870][695]LogFileHelpers: Auto-saving content packages took 0.041
 [2026.03.01-16.29.43:798][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.03.01-16.30.12:040][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4665.406250
+[2026.03.01-16.30.13:039][618]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-16.30.13:040][618]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4666.073730, Update Interval: 302.913300
+[2026.03.01-16.30.25:702][757]LogSlate: Window 'BP_SLOT' being destroyed
+[2026.03.01-16.30.25:708][757]LogSlate: Window 'BP_SLOT' being destroyed
+[2026.03.01-16.30.25:710][757]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.25:711][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.25:756][757]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.25:756][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.25:792][757]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.01-16.30.25:792][757]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.25:792][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.25:835][757]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.25:835][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.25:840][757]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.25:840][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.25:864][757]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.25:864][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.25:869][757]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.25:869][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.25:915][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.01-16.30.26:882][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.01-16.30.27:837][865]LogSlate: Window 'Save Content' being destroyed
+[2026.03.01-16.30.27:843][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-16.30.27:899][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.03.01-16.30.27:913][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.01-16.30.27:927][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.01-16.30.27:929][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Items/Widgets/BP_inventory] ([2] browsable assets)...
+[2026.03.01-16.30.27:929][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Widgets/BP_inventory]
+[2026.03.01-16.30.27:944][865]LogSavePackage: Moving output files for package: /Game/Items/Widgets/BP_inventory
+[2026.03.01-16.30.27:944][865]LogSavePackage: Moving 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Saved/BP_inventory73E930494A9395C423BE488935D4FFAA.tmp' to 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Content/Items/Widgets/BP_inventory.uasset'
+[2026.03.01-16.30.27:946][865]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/UA/ONJ0R462AVWJHC70INN143
+[2026.03.01-16.30.27:948][865]LogSavePackage: Moving 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Saved/ONJ0R462AVWJHC70INN143F5E2F71F4A78E6C809DEF09CF77C0CD6.tmp' to 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/UA/ONJ0R462AVWJHC70INN143.uasset'
+[2026.03.01-16.30.27:949][865]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/Widgets/BP_SLOT] ([2] browsable assets)...
+[2026.03.01-16.30.27:950][865]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Items/Widgets/BP_SLOT.BP_SLOT]
+[2026.03.01-16.30.27:950][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Widgets/BP_SLOT]
+[2026.03.01-16.30.27:960][865]LogSavePackage: Moving output files for package: /Game/Items/Widgets/BP_SLOT
+[2026.03.01-16.30.27:960][865]LogSavePackage: Moving 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Saved/BP_SLOT88ABDC0F4E0C874C5D994A8A44E60C5E.tmp' to 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Content/Items/Widgets/BP_SLOT.uasset'
+[2026.03.01-16.30.28:312][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Items/Widgets/Widet_BlueprintSlot] ([2] browsable assets)...
+[2026.03.01-16.30.28:312][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Widgets/Widet_BlueprintSlot]
+[2026.03.01-16.30.28:320][865]LogSavePackage: Moving output files for package: /Game/Items/Widgets/Widet_BlueprintSlot
+[2026.03.01-16.30.28:320][865]LogSavePackage: Moving 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Saved/Widet_BlueprintSlotA49C546945B2F2AD90925C91715AA8C4.tmp' to 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Content/Items/Widgets/Widet_BlueprintSlot.uasset'
+[2026.03.01-16.30.28:321][865]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Items/Widgets/Widget_Inventory] ([2] browsable assets)...
+[2026.03.01-16.30.28:323][865]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Items/Widgets/Widget_Inventory.Widget_Inventory]
+[2026.03.01-16.30.28:323][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Items/Widgets/Widget_Inventory]
+[2026.03.01-16.30.28:329][865]LogSavePackage: Moving output files for package: /Game/Items/Widgets/Widget_Inventory
+[2026.03.01-16.30.28:330][865]LogSavePackage: Moving 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Saved/Widget_InventoryF34606E147634F416A8ED6B4C8E2DAEB.tmp' to 'C:/Users/Alice/Documents/GithubVisual/gep-25-26-unreal-template-Kurimal-Latte-UNI/GEP_Template/Content/Items/Widgets/Widget_Inventory.uasset'
+[2026.03.01-16.30.28:336][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 493.092 ms
+[2026.03.01-16.30.28:365][865]LogStall: Shutdown...
+[2026.03.01-16.30.28:365][865]LogStall: Shutdown complete.
+[2026.03.01-16.30.28:389][865]LogSlate: Window 'Message Log' being destroyed
+[2026.03.01-16.30.28:392][865]LogSlate: Window 'GEP_Template - Unreal Editor' being destroyed
+[2026.03.01-16.30.28:392][865]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2026.03.01-16.30.28:536][865]LogContentValidation: Display: Starting to validate 6 assets
+[2026.03.01-16.30.28:536][865]LogContentValidation: Enabled validators:
+[2026.03.01-16.30.28:536][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-16.30.28:536][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-16.30.28:538][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-16.30.28:539][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-16.30.28:539][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-16.30.28:539][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-16.30.28:539][865]AssetCheck: /Game/Items/Widgets/BP_inventory Validating asset
+[2026.03.01-16.30.28:539][865]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2026.03.01-16.30.28:539][865]AssetCheck: /Game/Items/Widgets/BP_SLOT Validating asset
+[2026.03.01-16.30.28:539][865]AssetCheck: /Game/Items/Widgets/Widet_BlueprintSlot Validating asset
+[2026.03.01-16.30.28:540][865]AssetCheck: /Game/Items/Widgets/Widget_Inventory Validating asset
+[2026.03.01-16.30.28:541][865]Cmd: QUIT_EDITOR
+[2026.03.01-16.30.28:541][865]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.01-16.30.28:544][866]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.01-16.30.28:546][866]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.01-16.30.28:546][866]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.01-16.30.28:546][866]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:546][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:546][866]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2026.03.01-16.30.28:552][866]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.01-16.30.28:552][866]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.01-16.30.28:557][866]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:557][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:559][866]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:559][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:561][866]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:561][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:562][866]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:562][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:563][866]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:563][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:564][866]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:565][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:566][866]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-16.30.28:566][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-16.30.28:568][866]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.01-16.30.28:577][866]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.03.01-16.30.28:577][866]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.03.01-16.30.28:577][866]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.03.01-16.30.29:135][866]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.01-16.30.29:135][866]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.01-16.30.29:135][866]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2026.03.01-16.30.29:135][866]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.01-16.30.29:135][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.01-16.30.29:136][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.03.01-16.30.29:141][866]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.01-16.30.29:141][866]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.01-16.30.29:146][866]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.01-16.30.29:146][866]LogExit: Preparing to exit.
+[2026.03.01-16.30.29:176][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:224][866]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-16.30.29:925][866]LogEditorDataStorage: Deinitializing
+[2026.03.01-16.30.30:018][866]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.01-16.30.30:028][866]LogExit: Editor shut down
+[2026.03.01-16.30.30:029][866]LogExit: Transaction tracking system shut down
+[2026.03.01-16.30.30:133][866]LogExit: Object subsystem successfully closed.
+[2026.03.01-16.30.30:222][866]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.01-16.30.30:814][866]LogMemoryProfiler: Shutdown
+[2026.03.01-16.30.30:814][866]LogNetworkingProfiler: Shutdown
+[2026.03.01-16.30.30:814][866]LoadingProfiler: Shutdown
+[2026.03.01-16.30.30:814][866]LogTimingProfiler: Shutdown
